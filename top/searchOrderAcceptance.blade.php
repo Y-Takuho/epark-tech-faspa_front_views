@@ -32,6 +32,9 @@
         <a class="epark_gift_popular_brand_list_item" href="https://gift.epark.jp/rl-waffle/" target="_blank">
               <img src="{{ asset('/v2/sfc/images/gift/brand/icon_round_R.Lwafflecake_202601.jpg') . '?ver=' . config('const.cache_clear_ver') }}" alt="ワッフル・ケーキの店R.L(エール・エル)" class="epark_gift_popular_brand_list_item_image">
         </a>
+        <a class="epark_gift_popular_brand_list_item" href="https://gift.epark.jp/takeuchiseimen/" target="_blank">
+              <img src="{{ asset('/v2/sfc/images/gift/brand/Takeuchi-Seimen_logo_2604.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="武内製麺" class="epark_gift_popular_brand_list_item_image">
+        </a>
         <a class="epark_gift_popular_brand_list_item" href="https://gift.epark.jp/hana-yoshi/" target="_blank">
             <img src="{{ asset('/v2/sfc/images/gift/brand/top-brand_logo_hana-yoshi.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="フラワーマーケット花由" class="epark_gift_popular_brand_list_item_image">
         </a>

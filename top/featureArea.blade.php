@@ -31,9 +31,9 @@
         </li>
         <!-- 4. 【接骨・鍼灸】ギフト券 -->
         <li class="banner-panel-list__three-item">
-          <a class="banner-panel-list__three-item--link" href="https://karadarefre.jp/cp/menu_introduction?site_code=faspa&utm_source=epark.jp&utm_medium=banner&utm_content=toprecommend&utm_campaign=menu_introduction" target="_blank">
-            <img loading="lazy" src="{{ asset('/v2/sfc/images/feature/skt_2,000yen_720x432_250401.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="【接骨・鍼灸】2,000円以下の施術メニュー掲載施設特集" class="banner-panel-list__three-item--image">
-            <p class="banner-panel-list__three-item--text">【接骨・鍼灸】お得に施術を受けてみたい方必見★2,000円以下(税込)の施術メニューを掲載している施設をご紹介！</p>
+          <a class="banner-panel-list__three-item--link" href="https://karadarefre.jp/cp/hanamatsuri_lottery_campaign_26?site_code=faspa&utm_source=epark.jp&utm_medium=banner&utm_content=toprecommend&utm_campaign=hanamatsuri_lottery_campaign_26" target="_blank">
+            <img loading="lazy" src="{{ asset('/v2/sfc/images/feature/skt_720x432_2603.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="【接骨・鍼灸】ギフト券抽選キャンペーン" class="banner-panel-list__three-item--image">
+            <p class="banner-panel-list__three-item--text">【接骨・鍼灸】対象期間内に特設サイト上でのエントリー＋ネット予約＆来店された方へ、抽選で最大1万円分のギフト券をプレゼント♪</p>
           </a>
         </li>
         
