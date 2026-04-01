@@ -6,7 +6,7 @@
 
     <div>
       <ul class="banner-panel-list">
-                <!-- 1. 【リラク・エステ】得とく -->
+                        <!-- 1. 【リラク・エステ】得とく -->
         <li class="banner-panel-list__two-item">
           <a class="banner-panel-list__two-item--link" href="https://mitsuraku.jp/lpe/tktk50/?media=faspa&amp;utm_source=epark.jp&amp;utm_medium=banner&amp;utm_campaign=tktk50&amp;utm_term=202503&amp;utm_content=toprecommend" target="_blank">
             <img loading="lazy" src="{{ asset(&#39;/v2/sfc/images/feature/rae_tokutoku_720x432_250218.png&#39;) . &#39;?ver=&#39; . config(&#39;const.cache_clear_ver&#39;) }}" alt="【リラク・エステ】得とく" class="banner-panel-list__two-item--image">
