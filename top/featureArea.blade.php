@@ -6,19 +6,19 @@
 
     <div>
       <ul class="banner-panel-list">
-                                        <!-- 1. 【リラク・エステ】得とく -->
-        <li class="banner-panel-list__two-item">
-          <a class="banner-panel-list__two-item--link" href="https://mitsuraku.jp/lpe/tktk50/?media=faspa&amp;utm_source=epark.jp&amp;utm_medium=banner&amp;utm_campaign=tktk50&amp;utm_term=202503&amp;utm_content=toprecommend" target="_blank">
-            <img loading="lazy" src="{{ asset(&#39;/v2/sfc/images/feature/rae_tokutoku_720x432_250218.png&#39;) . &#39;?ver=&#39; . config(&#39;const.cache_clear_ver&#39;) }}" alt="【リラク・エステ】得とく" class="banner-panel-list__two-item--image">
-            <p class="banner-panel-list__two-item--text">【リラク・エステ】月10名さま限定★50％OFF！対象サロンの特別メニューがお得にご利用いただけます♪</p>
-          </a>
-        </li>
-
-        <!-- 2. 【ヘアサロン】Ozmall 新春運試し -->
+                                                <!-- 1. 【ヘアサロン】Ozmall 新春運試し -->
         <li class="banner-panel-list__two-item">
           <a class="banner-panel-list__two-item--link" href="https://premiumclub.epark.jp/?utm_source=epark.jp&amp;utm_medium=banner&amp;utm_campaign=premiumclub&amp;utm_term=2025&amp;utm_content=toprecommend" target="_blank">
             <img loading="lazy" src="{{ asset(&#39;/v2/sfc/images/feature/epc_251229_720x432.png&#39;) . &#39;?ver=&#39; . config(&#39;const.cache_clear_ver&#39;) }}" alt="【ヘアサロン】Ozmall 新春運試し" class="banner-panel-list__two-item--image">
             <p class="banner-panel-list__two-item--text">【EPARK Premium Club】携帯補償つきでパワーアップ！初月無料で今すぐ体験！</p>
+          </a>
+        </li>
+
+        <!-- 2. 【リラク・エステ】得とく -->
+        <li class="banner-panel-list__two-item">
+          <a class="banner-panel-list__two-item--link" href="https://mitsuraku.jp/lpe/tktk50/?media=faspa&amp;utm_source=epark.jp&amp;utm_medium=banner&amp;utm_campaign=tktk50&amp;utm_term=202503&amp;utm_content=toprecommend" target="_blank">
+            <img loading="lazy" src="{{ asset(&#39;/v2/sfc/images/feature/rae_tokutoku_720x432_250218.png&#39;) . &#39;?ver=&#39; . config(&#39;const.cache_clear_ver&#39;) }}" alt="【リラク・エステ】得とく" class="banner-panel-list__two-item--image">
+            <p class="banner-panel-list__two-item--text">【リラク・エステ】月10名さま限定★50％OFF！対象サロンの特別メニューがお得にご利用いただけます♪</p>
           </a>
         </li>
 
