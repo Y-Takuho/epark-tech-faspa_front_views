@@ -6,7 +6,7 @@
 
     <div>
       <ul class="banner-panel-list">
-                                                <!-- 1. 【ヘアサロン】Ozmall 新春運試し -->
+                                                        <!-- 1. 【ヘアサロン】Ozmall 新春運試し -->
         <li class="banner-panel-list__two-item">
           <a class="banner-panel-list__two-item--link" href="https://premiumclub.epark.jp/?utm_source=epark.jp&amp;utm_medium=banner&amp;utm_campaign=premiumclub&amp;utm_term=2025&amp;utm_content=toprecommend" target="_blank">
             <img loading="lazy" src="{{ asset(&#39;/v2/sfc/images/feature/epc_251229_720x432.png&#39;) . &#39;?ver=&#39; . config(&#39;const.cache_clear_ver&#39;) }}" alt="【ヘアサロン】Ozmall 新春運試し" class="banner-panel-list__two-item--image">
