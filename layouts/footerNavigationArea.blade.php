@@ -152,7 +152,7 @@
       <div class="epark_common_footer_eparklink">
         <ul>
           <li>
-            <a href="https://epark.co.jp/corporate/outline/?utm_source=epark.jp&utm_medium=referral&utm_campaign=footermenu"
+            <a href="https://epark.co.jp/company?utm_source=epark.jp&utm_medium=referral&utm_campaign=footermenu"
                target="_blank">運営会社</a>
           </li>
           <li>

@@ -41,9 +41,6 @@
         <a class="epark_gift_popular_brand_list_item" href="https://gift.epark.jp/kaidashokuhin/" target="_blank">
             <img src="{{ asset('/v2/sfc/images/gift/brand/top-brand_logo_kaidashokuhin.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="伊勢うどんのかいだ製麺所" class="epark_gift_popular_brand_list_item_image">
         </a>
-        <a class="epark_gift_popular_brand_list_item_sp" href="https://gift.epark.jp/croaster-select/" target="_blank">
-            <img src="{{ asset('/v2/sfc/images/brand/swt/croaster_2407.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="シーロースターセレクトコーヒー" class="epark_gift_popular_brand_list_item_image">
-        </a>
         <a class="epark_gift_popular_brand_list_item_sp" href="https://gift.epark.jp/furumachi-kouji/" target="_blank">
               <img src="{{ asset('/v2/sfc/images/gift/brand/furumachi.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="古町糀製造所" class="epark_gift_popular_brand_list_item_image">
         </a>
@@ -52,9 +49,6 @@
         </a>
       </div>
       <div class="epark_gift_popular_brand_list sp_none">
-        <a class="epark_gift_popular_brand_list_item sp_none" href="https://gift.epark.jp/croaster-select/" target="_blank">
-            <img src="{{ asset('/v2/sfc/images/brand/swt/croaster_2407.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="シーロースターセレクトコーヒー" class="epark_gift_popular_brand_list_item_image">
-        </a>
         <a class="epark_gift_popular_brand_list_item sp_none" href="https://gift.epark.jp/furumachi-kouji/" target="_blank">
             <img src="{{ asset('/v2/sfc/images/gift/brand/furumachi.png') . '?ver=' . config('const.cache_clear_ver') }}" alt="古町糀製造所" class="epark_gift_popular_brand_list_item_image">
         </a>
